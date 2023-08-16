@@ -1,1 +1,2 @@
 1st line (conflicts resolved and this line is kept) ...adding some more words to raise conflict again
+2nd line
