@@ -1,1 +1,1 @@
-line1
+1st line (conflicts resolved and this line is kept)
