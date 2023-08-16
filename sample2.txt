@@ -1,1 +1,1 @@
-1st line for conflict raise
+1st line (conflicts resolved and this line is kept)
